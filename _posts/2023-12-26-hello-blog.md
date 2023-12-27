@@ -8,6 +8,4 @@ latex syntax test.
 
 $q = 1$
 
-$$
-q = 1
-$$
+$$ q = 1 $$
