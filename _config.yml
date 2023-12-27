@@ -254,9 +254,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      sidebar:
+        nav: "docs"
+      read_time: false
       comments: false
       share: false
-      related: true
+      related: false
       show_date: true
