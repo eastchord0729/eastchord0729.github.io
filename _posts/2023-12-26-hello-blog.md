@@ -1,7 +1,6 @@
 ---
 title: This is a title.
 categories: archives
-use_math: true
 ---
 
 latex syntax test.
