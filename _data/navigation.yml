@@ -17,7 +17,7 @@ docs:
   - title: "Projects"
     children:
       - title: Number Theoretic Transform
-        url: # /category/pqc
+        url: /category/pqc/ntt
 
   - title: "Area"
     children:
