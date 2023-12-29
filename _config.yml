@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog for Cryptographer"
+title                    : "East Chord Blog"
 title_separator          : "|" # "-"
-subtitle                 : Main Topic is Post Quantum Cryptography
+subtitle                 : The enemy knows the system
 name                     : "EastChord"
 description              : "This is a blog for cryptographer. The main topic is Post Quantum Cryptography."
 url                      : "https://eastchord0729.github.io"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "East Chord"
+  name             : "Dong Hyeon Kim"
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "The enemy knows the system"
-  location         : "KM univ"
+  bio              : "wellcome my blog!"
+  location         : "Kookmin University"
   email            : "eastchord0729@gmail.com"
   links:
     - label: "GitHub"
