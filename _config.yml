@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "East Chord Blog"
+title                    : "East Chord's Blog"
 title_separator          : "|" # "-"
 subtitle                 : The enemy knows the system
 name                     : "EastChord"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Dong Hyeon Kim"
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "wellcome my blog!"
+  bio              : "welcome to my blog!"
   location         : "Kookmin University"
   email            : "eastchord0729@gmail.com"
   links:
